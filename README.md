@@ -1,5 +1,5 @@
 [Gun Type]
-•Handgun — any firearm fired by a single hand
+• Handgun — any firearm fired by a single hand
 
 • Long Gun — any firearm fired by two hands
 
